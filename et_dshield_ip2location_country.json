@@ -1,0 +1,34 @@
+[
+	{
+		"code": "BG",
+		"value": 1024
+	},
+	{
+		"code": "COUNTRYLESS",
+		"value": 256
+	},
+	{
+		"code": "CY",
+		"value": 256
+	},
+	{
+		"code": "GB",
+		"value": 768
+	},
+	{
+		"code": "NL",
+		"value": 1024
+	},
+	{
+		"code": "RU",
+		"value": 1024
+	},
+	{
+		"code": "UA",
+		"value": 256
+	},
+	{
+		"code": "US",
+		"value": 512
+	}
+]
